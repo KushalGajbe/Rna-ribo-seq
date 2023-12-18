@@ -1,0 +1,17 @@
+ID,SampleName,Condition
+Fluconazole_rna1,GSM7103619,Fluconazole
+Fluconazole_rna2,GSM7103618,Fluconazole
+Fluconazole_rna3,GSM7103617,Fluconazole
+Fluconazole_rna4,GSM7103616,Fluconazole
+Nodrug_rna1,GSM7103615,NoDrug
+Nodrug_rna2,GSM7103614,NoDrug
+Nodrug_rna3,GSM7103613,NoDrug
+Nodrug_rna4,GSM7103612,NoDrug
+Fluconazole_ribo1,GSM7103611,Fluconazole
+Fluconazole_ribo2,GSM7103610,Fluconazole
+Fluconazole_ribo3,GSM7103609,Fluconazole
+Fluconazole_ribo4,GSM7103608,Fluconazole
+Nodrug_ribo1,GSM7103607,NoDrug
+Nodrug_ribo2,GSM7103606,NoDrug
+Nodrug_ribo3,GSM7103605,NoDrug
+Nodrug_ribo4,GSM7103604,NoDrug
