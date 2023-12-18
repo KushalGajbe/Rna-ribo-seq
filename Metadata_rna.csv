@@ -1,0 +1,9 @@
+ID,SampleName,Condition
+Fluconazole_rna1,GSM7103619,Fluconazole
+Fluconazole_rna2,GSM7103618,Fluconazole
+Fluconazole_rna3,GSM7103617,Fluconazole
+Fluconazole_rna4,GSM7103616,Fluconazole
+Nodrug_rna1,GSM7103615,NoDrug
+Nodrug_rna2,GSM7103614,NoDrug
+Nodrug_rna3,GSM7103613,NoDrug
+Nodrug_rna4,GSM7103612,NoDrug
